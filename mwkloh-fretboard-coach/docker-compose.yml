@@ -4,7 +4,7 @@ services:
       APP_HOST: mwkloh-fretboard-coach_web_1
       APP_PORT: 3000
   web:
-    image: ghcr.io/mwkloh/fretboard-coach:0.4.0
+    image: ghcr.io/mwkloh/fretboard-coach:0.4.0@sha256:55b43a39d0917b65af01d0e8cdaedee24c1d5f7d7a7e79be7eef4fd3b6ff54fe
     user: "1000:1000"
     init: true
     restart: on-failure
