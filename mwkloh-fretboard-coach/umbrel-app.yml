@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: mwkloh-fretboard-coach
+category: media
+name: Fretboard Coach
+version: "0.4.0"
+tagline: Learn the fretboard on the way to lead guitar
+icon: https://raw.githubusercontent.com/mwkloh/umbrel-app-store/main/mwkloh-fretboard-coach/icon.svg
+description: >-
+  Fretboard Coach shows the guitar neck with every note's job, plays backing so you can hear
+  which notes land and which pass, and follows a 10-stage path toward confident lead playing.
+
+  Your progress is stored on this Umbrel. You can download a backup of it from Settings.
+releaseNotes: ""
+developer: mwkloh
+website: https://github.com/mwkloh/umbrel-app-store
+repo: https://github.com/mwkloh/umbrel-app-store
+support: https://github.com/mwkloh/umbrel-app-store/issues
+dependencies: []
+port: 6283
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: mwkloh
