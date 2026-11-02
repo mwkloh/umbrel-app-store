@@ -2,7 +2,7 @@ manifestVersion: 1
 id: mwkloh-fretboard-coach
 category: media
 name: Fretboard Coach
-version: "0.5.1"
+version: "0.6.0"
 tagline: Learn the fretboard on the way to lead guitar
 icon: https://raw.githubusercontent.com/mwkloh/umbrel-app-store/main/mwkloh-fretboard-coach/icon.svg
 description: >-
@@ -10,7 +10,7 @@ description: >-
   which notes land and which pass, and follows a 10-stage path toward confident lead playing.
 
   Your progress is stored on this Umbrel. You can download a backup of it from Settings.
-releaseNotes: "Lessons 4.1–4.4 now have buttons that open their licks in the Lick player."
+releaseNotes: "Stage 4 is in the app: lessons 4.1–4.5 are full pages, and the Lick player can play a bend's target note."
 developer: mwkloh
 website: https://github.com/mwkloh/umbrel-app-store
 repo: https://github.com/mwkloh/umbrel-app-store
