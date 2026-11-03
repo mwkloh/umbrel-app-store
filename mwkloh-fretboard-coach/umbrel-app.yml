@@ -2,7 +2,7 @@ manifestVersion: 1
 id: mwkloh-fretboard-coach
 category: media
 name: Fretboard Coach
-version: "0.8.0"
+version: "0.9.0"
 tagline: Learn the fretboard on the way to lead guitar
 icon: https://raw.githubusercontent.com/mwkloh/umbrel-app-store/main/mwkloh-fretboard-coach/icon.svg
 description: >-
@@ -10,7 +10,7 @@ description: >-
   which notes land and which pass, and follows a 10-stage path toward confident lead playing.
 
   Your progress is stored on this Umbrel. You can download a backup of it from Settings.
-releaseNotes: "Stage 6 is in the app: lessons 6.1–6.5 are full pages, the Explorer plays a 12-bar and a slow blues with the bar number and an End button, shows the blues scale, the metronome clicks triplets, and the Lick player has turnaround and ending licks."
+releaseNotes: "Stage 7 is in the app: lessons 7.1–7.5 are full pages, the Explorer shows the major pentatonic and both scales together, plays Major and Ballad backings and has an Open chords view, and the Lick player has double-stops and chord moves with the held chord on the neck."
 developer: mwkloh
 website: https://github.com/mwkloh/umbrel-app-store
 repo: https://github.com/mwkloh/umbrel-app-store
